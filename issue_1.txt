@@ -1,0 +1,2 @@
+如何才能够在发现bug之后,找到bug出现的最初的地方去pull request,又或者直接new branch???
+
